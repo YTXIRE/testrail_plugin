@@ -1,1 +1,2 @@
 pytest==7.0.1
+testrail_api==1.10.3
